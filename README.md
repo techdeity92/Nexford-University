@@ -12,7 +12,7 @@ This project includes a Python and R script to generate payment slips for worker
 ### Files:
 
 * Module 1 Construction Company Payment Slips.ipynb - Python version of the program.
-* RModule 1 Construction Company Payment Slips.R - R version of the program.
+* Module 1 Construction Company Payment Slips.R - R version of the program.
 * README.md - This file.
 
 ### How to Run:
