@@ -11,8 +11,8 @@ This project includes a Python and R script to generate payment slips for worker
 
 ### Files:
 
-* worker_payment.py - Python version of the program.
-* worker_payment.R - R version of the program.
+* Module 1 Construction Company Payment Slips.ipynb - Python version of the program.
+* RModule 1 Construction Company Payment Slips.R - R version of the program.
 * README.md - This file.
 
 ### How to Run:
@@ -21,11 +21,11 @@ This project includes a Python and R script to generate payment slips for worker
 2. Open the command line in the project directory.
 3. To run the Python version:
 
-   * python worker_payment.py
+   * Module 1 Construction Company Payment Slips.ipynb
 
 4. To run the R version:
 
-   * Rscript worker_payment.R
+   * RModule 1 Construction Company Payment Slips.R
 
 ### Input:
 
