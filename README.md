@@ -25,7 +25,7 @@ This project includes a Python and R script to generate payment slips for worker
 
 4. To run the R version:
 
-   * RModule 1 Construction Company Payment Slips.R
+   * Module 1 Construction Company Payment Slips.R
 
 ### Input:
 
